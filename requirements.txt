@@ -1,0 +1,4 @@
+flask==1.0.2
+flask_restful
+gunicorn==20.0.4
+pymongo
